@@ -17,7 +17,7 @@
   - 页面布局
   - 左边栏用户信息: 头像, 用户名, 介绍, 组织等动态数据
   - Overview
-  - Pepositories, 
+  - Repositories, 
   - Stars, 
   - Follwers, 
   - Following
@@ -90,6 +90,6 @@
 
 参考:
 
- [github开发者api文档](developer.github.com/v3)
+[github开发者api文档](developer.github.com/v3)
 
 [MDN ajax 入门](https://developer.mozilla.org/zh-CN/docs/AJAX/Getting_Started)
