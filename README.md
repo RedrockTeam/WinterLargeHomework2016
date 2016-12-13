@@ -60,7 +60,7 @@
   - **别崩**
   - 别撸不出页面把后端坑了...
 - 后端
-  - PSR-1, 2, 4
+  - [PSR](https://github.com/PizzaLiu/PHP-FIG)-1, 2, 4
   - 数据库设计(注意表关系)
   - 防 xss, sql 注入
   - 面向对象
